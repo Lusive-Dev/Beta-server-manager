@@ -1,0 +1,6 @@
+{
+  "name": "MC Beta Host",
+  "description": "Host a local Minecraft Beta 1.7.3 server on-device with interactive shell, auto-EULA, cracked mode toggle, and live terminal console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

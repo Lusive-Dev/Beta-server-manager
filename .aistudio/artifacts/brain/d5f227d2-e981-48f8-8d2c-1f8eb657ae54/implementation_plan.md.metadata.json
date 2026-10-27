@@ -1,0 +1,6 @@
+{
+  "summary":  "Revised implementation plan for Minecraft Beta 1.7 Server Host on Android, adding an automatic eula.txt agreement handler and a dedicated 'Cracked / Offline Mode' toggle in server.properties and quick-setup controls.",
+  "updatedAt":  "2026-10-27T14:34:52.547739704Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
